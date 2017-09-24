@@ -1,4 +1,4 @@
-var data = require("../../utils/utils.js");
+var data = require("../../utils/util.js");
 var maxTime = 5
 var currentTime = maxTime //倒计时的事件（单位：s）  
 var interval = null

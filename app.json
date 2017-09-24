@@ -1,21 +1,27 @@
 {
-  "pages": [
-    "pages/index/index",
-    "pages/goodsdetail/goodsdetail",
-    "pages/register/register",
-    "pages/login/login",
-    "pages/channel/channel",
-    "pages/message_02/msg-detail_03/detail",
-    "pages/data_02/data",
-    "pages/set_02/set",
-    "pages/business_02/business",
-    "pages/info-mange_02/info",
-    "pages/account_02/account",
-    "pages/message_02/message",
-    "pages/chat_02/chat",
-    "pages/index_01/index"
+  "pages":[
+      "pages/index/index",
+      "pages/goodsdetail/goodsdetail",
+      "pages/register/register",
+      "pages/login/login",
+      "pages/channel/channel",
+      "pages/message_02/msg-detail_03/detail",
+      "pages/data_02/data",
+      "pages/set_02/set",
+      "pages/business_02/business",
+      "pages/info-mange_02/info",
+      "pages/account_02/account",
+      "pages/message_02/message",
+      "pages/chat_02/chat",
+      "pages/index_01/index",
+      "pages/gd/gd",
+      "pages/zixun/zixun",
+      "pages/search/search",
+       "pages/more/more",
+  
+    "pages/template/template"
   ],
-  "window": {
+  "window":{
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#0f69dc",
     "navigationBarTitleText": "中国锻件网",
